@@ -1,7 +1,4 @@
 # -Developer-Insights-Project
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webapper.com%2F2021-stack-overflow-developer-survey%2F&psig=AOvVaw1In2TezU8nWkG-GJR3eCNN&ust=1700223063973000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCOtNG-yIIDFQAAAAAdAAAAABAI" />
-</p>
 ## Introduction
 This project delves into comprehensive insights extracted from the Stack Overflow Developer Survey 2022. The dataset provides a rich source of information about developers' demographics, coding experience, compensation, and various aspects of their professional lives.
 
