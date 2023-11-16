@@ -26,4 +26,6 @@ The insights gleaned from the analysis cover diverse aspects including:
 - Developer Demographics and Roles
 - Mental Health Insights among Developers
 
+- 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **dataanalystarbaazkhaan123@gmail.com**
+
 For detailed insights and analysis, refer to the project's analysis and conclusions.
