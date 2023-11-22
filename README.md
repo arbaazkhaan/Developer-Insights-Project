@@ -1,4 +1,5 @@
-# -Developer-Insights-Project
+# Developer-Insights-Project
+![Stack Overflow](https://github.com/arbaazkhaan/Developer-Insights-Project/blob/834e22c4f85996a50e8bc65852cb17774d356331/stackoverflow.png)
 ## Dataset : https://www.kaggle.com/datasets/imshiva10/stack-overflow-developer-survey-2022
 ## Introduction
 This project delves into comprehensive insights extracted from the Stack Overflow Developer Survey 2022. The dataset provides a rich source of information about developers' demographics, coding experience, compensation, and various aspects of their professional lives.
